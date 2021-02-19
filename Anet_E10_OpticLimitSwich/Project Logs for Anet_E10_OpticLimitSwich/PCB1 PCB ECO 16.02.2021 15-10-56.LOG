@@ -1,0 +1,16 @@
+Added Component: Designator=D2(SOT89)
+Add component (AddParameter): Name = "ComponentType"; Value = "Linear voltage regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentOutput"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=31095"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxDropout"; Value = "0.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "L78L33ACUTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Linear voltage regulator, max input 18V, 0.6V, output 3.3V, 300mA, -40...+125°C, SOT-89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageInput"; Value = "max input 18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageOutput"; Value = "output 3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=D2-3
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Linear voltage regulator, max input 18V, 0.6V, output 3.3V, 300mA, -40...+125°C, SOT-89

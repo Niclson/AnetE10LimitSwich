@@ -1,0 +1,233 @@
+Added Component: Designator=C1(CAP: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=39381"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 18pF, X7R, ±10%, 16V, 0402, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=18895"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 1?F, X7R, ±10%, 6.3V, 0402, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=18895"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 1?F, X7R, ±10%, 6.3V, 0402, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(10-DFN)
+Add component (AddParameter): Name = "Value"; Value = "Attiny13"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOT23-5)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC op amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GainBandwidth"; Value = "20 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/ad8628aujz-reel7-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutputType"; Value = "Rail-to-Rail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AD8628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "2.7...5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC op amplifier, Rail-to-Rail, 20 MHz, 2.7...5.5V, -40...+125∞C, SOT23-5"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED_0603)
+Add component (AddParameter): Name = "Calor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.vishay.com/docs/82437/vlmo1300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL3(LED: 0402G)
+Add component (AddParameter): Name = "Calor"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=38579"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL4(LED_0603)
+Add component (AddParameter): Name = "Calor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.vishay.com/docs/82437/vlmo1300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0402)
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0402)
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=40023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 0402)
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(BUT: 3x4x2 SMT)
+Add component (AddParameter): Name = "CommentText"; Value = "" ÌÓÔÍ‡""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "xin cheng electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3*4*2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3*4*2 2PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ", 3*4*2mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(BUT: 3x4x2 SMT)
+Add component (AddParameter): Name = "CommentText"; Value = "" ÌÓÔÍ‡""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://belchip.by/product/?selected_product=32927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "xin cheng electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3*4*2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3*4*2 2PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ", 3*4*2mm"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SC-70)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC847CLT1G/BC847CLT1GOSCT-ND/917836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC817CLT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "NPN transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.6V"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SC-70)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC847CLT1G/BC847CLT1GOSCT-ND/917836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC817CLT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "NPN transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.6V"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CON: PLS-3)
+Add component (AddParameter): Name = "CommentText"; Value = ""–‡Á˙ÂÏ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 3pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C2-2
+Added Pin To Net: NetName=+3.3 Pin=D1-10
+Added Pin To Net: NetName=+3.3 Pin=DA1-5
+Added Pin To Net: NetName=+3.3 Pin=HL2-2
+Added Pin To Net: NetName=+3.3 Pin=R1-2
+Added Pin To Net: NetName=+3.3 Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=R5-2
+Added Pin To Net: NetName=+3.3 Pin=R8-2
+Added Net: Name=+3.3
+Added Pin To Net: NetName=DATA Pin=R10-1
+Added Pin To Net: NetName=DATA Pin=VT2-3
+Added Pin To Net: NetName=DATA Pin=X1-2
+Added Net: Name=DATA
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=GND Pin=HL3-1
+Added Pin To Net: NetName=GND Pin=HL4-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-4
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R4-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DA1-3
+Added Pin To Net: NetName=NetC1_2 Pin=R4-2
+Added Pin To Net: NetName=NetC1_2 Pin=R5-1
+Added Pin To Net: NetName=NetC1_2 Pin=R9-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R8-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R11-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_6 Pin=R2-1
+Added Pin To Net: NetName=NetD1_6 Pin=SW1-1
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=NetD1_7 Pin=R1-1
+Added Pin To Net: NetName=NetD1_7 Pin=SW2-1
+Added Net: Name=NetD1_7
+Added Pin To Net: NetName=NetD1_9 Pin=D1-9
+Added Pin To Net: NetName=NetD1_9 Pin=R6-1
+Added Net: Name=NetD1_9
+Added Pin To Net: NetName=NetDA1_4 Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_4 Pin=HL4-1
+Added Net: Name=NetDA1_4
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_1 Pin=R7-2
+Added Net: Name=NetHL2_1
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=NetHL3_2 Pin=R3-2
+Added Net: Name=NetHL3_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=VT1-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=VT1-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=VT2-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=X1-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
