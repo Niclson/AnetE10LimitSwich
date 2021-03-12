@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Anet_E10_OpticLimitSwich
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,39 +106,55 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.DRR
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.EXTREP
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GBL
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GM15
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GTL
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.LDP
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.REP
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.RUL
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.TXT
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Anet_E10_OpticLimitSwich\NC Drill\PCB1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -151,16 +167,13 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
-[Generic_EDE]
-OutputDir=Project Outputs for Anet_E10_OpticLimitSwich
-
 [Generic_SmartPDF]
 AutoOpenFile=0
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
 ProjectMode=0
-ZoomPrecision=50
+ZoomPrecision=0
 AddNetsInformation=-1
 AddNetPins=-1
 AddNetNetLabels=-1
@@ -172,7 +185,7 @@ TemplateFilename=C:\Users\опт\Desktop\AnetE10LimitSwich\Anet_E10_OpticLimitSw
 TemplateStoreRelative=0
 PCB_PrintColor=2
 SCH_PrintColor=0
-PrintQuality=-3
+PrintQuality=-4
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -189,6 +202,9 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=0
 SaveSettingsToOutJob=0
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1192,7 +1208,7 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration_Name1=OutputConfigurationParameter1
-Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration_Item1=DesignatorDisplayMode=Logical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration_Name2=OutputConfigurationParameter2
 Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top Layer|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration_Name3=OutputConfigurationParameter3
