@@ -1,0 +1,271 @@
+
+AnetE10_LimitSwitch.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000010a  00000000  00000000  00000094  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         00000000  00800060  00800060  0000019f  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          00000003  00800060  00800060  0000019e  2**0
+                  ALLOC
+  3 .eeprom       00000001  00810000  00810000  0000019e  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  4 .comment      00000030  00000000  00000000  0000019f  2**0
+                  CONTENTS, READONLY
+  5 .note.gnu.avr.deviceinfo 0000003c  00000000  00000000  000001d0  2**2
+                  CONTENTS, READONLY
+  6 .debug_aranges 00000078  00000000  00000000  00000210  2**3
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_info   00000689  00000000  00000000  00000288  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_abbrev 00000422  00000000  00000000  00000911  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_line   0000043d  00000000  00000000  00000d33  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_frame  00000054  00000000  00000000  00001170  2**2
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_str    0000031d  00000000  00000000  000011c4  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_loc    00000090  00000000  00000000  000014e1  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 13 .debug_ranges 00000028  00000000  00000000  00001571  2**0
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	09 c0       	rjmp	.+18     	; 0x14 <__ctors_end>
+   2:	16 c0       	rjmp	.+44     	; 0x30 <__bad_interrupt>
+   4:	15 c0       	rjmp	.+42     	; 0x30 <__bad_interrupt>
+   6:	14 c0       	rjmp	.+40     	; 0x30 <__bad_interrupt>
+   8:	13 c0       	rjmp	.+38     	; 0x30 <__bad_interrupt>
+   a:	12 c0       	rjmp	.+36     	; 0x30 <__bad_interrupt>
+   c:	11 c0       	rjmp	.+34     	; 0x30 <__bad_interrupt>
+   e:	10 c0       	rjmp	.+32     	; 0x30 <__bad_interrupt>
+  10:	0f c0       	rjmp	.+30     	; 0x30 <__bad_interrupt>
+  12:	0e c0       	rjmp	.+28     	; 0x30 <__bad_interrupt>
+
+00000014 <__ctors_end>:
+  14:	11 24       	eor	r1, r1
+  16:	1f be       	out	0x3f, r1	; 63
+  18:	cf e9       	ldi	r28, 0x9F	; 159
+  1a:	cd bf       	out	0x3d, r28	; 61
+
+0000001c <__do_clear_bss>:
+  1c:	20 e0       	ldi	r18, 0x00	; 0
+  1e:	a0 e6       	ldi	r26, 0x60	; 96
+  20:	b0 e0       	ldi	r27, 0x00	; 0
+  22:	01 c0       	rjmp	.+2      	; 0x26 <.do_clear_bss_start>
+
+00000024 <.do_clear_bss_loop>:
+  24:	1d 92       	st	X+, r1
+
+00000026 <.do_clear_bss_start>:
+  26:	a3 36       	cpi	r26, 0x63	; 99
+  28:	b2 07       	cpc	r27, r18
+  2a:	e1 f7       	brne	.-8      	; 0x24 <.do_clear_bss_loop>
+  2c:	13 d0       	rcall	.+38     	; 0x54 <main>
+  2e:	6b c0       	rjmp	.+214    	; 0x106 <_exit>
+
+00000030 <__bad_interrupt>:
+  30:	e7 cf       	rjmp	.-50     	; 0x0 <__vectors>
+
+00000032 <Init_Port>:
+unsigned char EEMEM		trigger_ee;//объявляем её копию в памяти еепрома
+
+
+void Init_Port (void){
+	
+	PORTB |= (1<<0);	// кнопка МИНУС
+  32:	c0 9a       	sbi	0x18, 0	; 24
+	PORTB |= (1<<1);	// кнопка ПЛЮС
+  34:	c1 9a       	sbi	0x18, 1	; 24
+	DDRB |= (1<<2);		// выход
+  36:	ba 9a       	sbi	0x17, 2	; 23
+						// вход АЦП
+	DDRB |= (1<<4);		// индикаторный светодиод
+  38:	bc 9a       	sbi	0x17, 4	; 23
+  3a:	08 95       	ret
+
+0000003c <Init_ADC>:
+	
+}
+
+void Init_ADC (void){
+
+	ADMUX = (1<<MUX1)|                                             // два регистра MUX отвечающие за подтяжку ноги к АЦП
+  3c:	83 e2       	ldi	r24, 0x23	; 35
+  3e:	87 b9       	out	0x07, r24	; 7
+			(1<<MUX0)|
+			(1<<ADLAR);
+			
+	ADCSRA = (0<<ADPS2)|
+  40:	81 e8       	ldi	r24, 0x81	; 129
+  42:	86 b9       	out	0x06, r24	; 6
+	         (0<<ADPS1)|
+	         (1<<ADPS0)|    			//настройка частоты дискретизации АЦП
+	         (1<<ADEN);                //включение АЦП
+			 
+	DIDR0 =  (1<<ADC2D);
+  44:	80 e1       	ldi	r24, 0x10	; 16
+  46:	84 bb       	out	0x14, r24	; 20
+  48:	08 95       	ret
+
+0000004a <ADC_Read>:
+	
+}
+uint8_t ADC_Read (void){
+	    
+	ADCSRA |=(1<<ADSC);	                                     //запуск преобразования АЦП
+  4a:	36 9a       	sbi	0x06, 6	; 6
+	while(!(ADCSRA & (1<<ADIF)));							 //окончание преобразования АЦП
+  4c:	34 9b       	sbis	0x06, 4	; 6
+  4e:	fe cf       	rjmp	.-4      	; 0x4c <ADC_Read+0x2>
+	return ADCH;                                            //ADCH - регистр хранения прочитанного
+  50:	85 b1       	in	r24, 0x05	; 5
+
+}
+  52:	08 95       	ret
+
+00000054 <main>:
+uint16_t resalt_adc;
+
+
+int main(void)
+{
+    Init_Port();
+  54:	ee df       	rcall	.-36     	; 0x32 <Init_Port>
+	Init_ADC();
+  56:	f2 df       	rcall	.-28     	; 0x3c <Init_ADC>
+	
+// 		    TCCR0A = (1<<COM0A1)|(0<<COM0A0)| // подключение пина B0
+// 		    (1<<WGM01)|(1<<WGM00); // установка режима Fast PWM
+// 		    TCCR0B = (1<<CS02)|(0<<CS01)|(1<<CS00); //предделитель
+
+	trigger = eeprom_read_byte (&trigger_ee); // записали значение из еепрома в переменную
+  58:	80 e0       	ldi	r24, 0x00	; 0
+  5a:	90 e0       	ldi	r25, 0x00	; 0
+  5c:	40 d0       	rcall	.+128    	; 0xde <eeprom_read_byte>
+  5e:	80 93 62 00 	sts	0x0062, r24	; 0x800062 <trigger>
+		    
+	
+    while (1) 
+    {
+		resalt_adc = ADC_Read();
+  62:	f3 df       	rcall	.-26     	; 0x4a <ADC_Read>
+  64:	90 e0       	ldi	r25, 0x00	; 0
+  66:	90 93 61 00 	sts	0x0061, r25	; 0x800061 <__DATA_REGION_ORIGIN__+0x1>
+  6a:	80 93 60 00 	sts	0x0060, r24	; 0x800060 <__DATA_REGION_ORIGIN__>
+		
+		if (trigger == resalt_adc)		PORTB |= (1<<2);
+  6e:	20 91 62 00 	lds	r18, 0x0062	; 0x800062 <trigger>
+  72:	30 e0       	ldi	r19, 0x00	; 0
+  74:	82 17       	cp	r24, r18
+  76:	93 07       	cpc	r25, r19
+  78:	11 f4       	brne	.+4      	; 0x7e <main+0x2a>
+  7a:	c2 9a       	sbi	0x18, 2	; 24
+  7c:	01 c0       	rjmp	.+2      	; 0x80 <main+0x2c>
+		else							PORTB &= ~(1<<2);
+  7e:	c2 98       	cbi	0x18, 2	; 24
+		
+		if(!(PINB&(1<<1)))	{
+  80:	b1 99       	sbic	0x16, 1	; 22
+  82:	15 c0       	rjmp	.+42     	; 0xae <__stack+0xf>
+			trigger = trigger + 10;
+  84:	80 91 62 00 	lds	r24, 0x0062	; 0x800062 <trigger>
+  88:	86 5f       	subi	r24, 0xF6	; 246
+  8a:	80 93 62 00 	sts	0x0062, r24	; 0x800062 <trigger>
+			if(trigger >= 256)	trigger = 255;
+			
+			PORTB |= (1<<4);
+  8e:	c4 9a       	sbi	0x18, 4	; 24
+	#else
+		//round up by default
+		__ticks_dc = (uint32_t)(ceil(fabs(__tmp)));
+	#endif
+
+	__builtin_avr_delay_cycles(__ticks_dc);
+  90:	2f e9       	ldi	r18, 0x9F	; 159
+  92:	8d ef       	ldi	r24, 0xFD	; 253
+  94:	92 e0       	ldi	r25, 0x02	; 2
+  96:	21 50       	subi	r18, 0x01	; 1
+  98:	80 40       	sbci	r24, 0x00	; 0
+  9a:	90 40       	sbci	r25, 0x00	; 0
+  9c:	e1 f7       	brne	.-8      	; 0x96 <main+0x42>
+  9e:	00 c0       	rjmp	.+0      	; 0xa0 <__stack+0x1>
+  a0:	00 00       	nop
+			_delay_ms(100);
+			PORTB &= ~(1<<4);
+  a2:	c4 98       	cbi	0x18, 4	; 24
+			
+			eeprom_write_byte (& trigger_ee, trigger);
+  a4:	60 91 62 00 	lds	r22, 0x0062	; 0x800062 <trigger>
+  a8:	80 e0       	ldi	r24, 0x00	; 0
+  aa:	90 e0       	ldi	r25, 0x00	; 0
+  ac:	1f d0       	rcall	.+62     	; 0xec <eeprom_write_byte>
+			
+			
+		}
+		if(!(PINB&(1<<0)))	{
+  ae:	b0 99       	sbic	0x16, 0	; 22
+  b0:	d8 cf       	rjmp	.-80     	; 0x62 <main+0xe>
+			trigger = trigger - 10;
+  b2:	80 91 62 00 	lds	r24, 0x0062	; 0x800062 <trigger>
+  b6:	8a 50       	subi	r24, 0x0A	; 10
+  b8:	80 93 62 00 	sts	0x0062, r24	; 0x800062 <trigger>
+			if(trigger <= 0)	trigger = 0;
+			
+			PORTB |= (1<<4);
+  bc:	c4 9a       	sbi	0x18, 4	; 24
+  be:	2f e9       	ldi	r18, 0x9F	; 159
+  c0:	8d ef       	ldi	r24, 0xFD	; 253
+  c2:	92 e0       	ldi	r25, 0x02	; 2
+  c4:	21 50       	subi	r18, 0x01	; 1
+  c6:	80 40       	sbci	r24, 0x00	; 0
+  c8:	90 40       	sbci	r25, 0x00	; 0
+  ca:	e1 f7       	brne	.-8      	; 0xc4 <__stack+0x25>
+  cc:	00 c0       	rjmp	.+0      	; 0xce <__stack+0x2f>
+  ce:	00 00       	nop
+			_delay_ms(100);
+			PORTB &= ~(1<<4);
+  d0:	c4 98       	cbi	0x18, 4	; 24
+			
+			eeprom_write_byte (& trigger_ee, trigger);
+  d2:	60 91 62 00 	lds	r22, 0x0062	; 0x800062 <trigger>
+  d6:	80 e0       	ldi	r24, 0x00	; 0
+  d8:	90 e0       	ldi	r25, 0x00	; 0
+  da:	08 d0       	rcall	.+16     	; 0xec <eeprom_write_byte>
+  dc:	c2 cf       	rjmp	.-124    	; 0x62 <main+0xe>
+
+000000de <eeprom_read_byte>:
+  de:	e1 99       	sbic	0x1c, 1	; 28
+  e0:	fe cf       	rjmp	.-4      	; 0xde <eeprom_read_byte>
+  e2:	8e bb       	out	0x1e, r24	; 30
+  e4:	e0 9a       	sbi	0x1c, 0	; 28
+  e6:	99 27       	eor	r25, r25
+  e8:	8d b3       	in	r24, 0x1d	; 29
+  ea:	08 95       	ret
+
+000000ec <eeprom_write_byte>:
+  ec:	26 2f       	mov	r18, r22
+
+000000ee <eeprom_write_r18>:
+  ee:	e1 99       	sbic	0x1c, 1	; 28
+  f0:	fe cf       	rjmp	.-4      	; 0xee <eeprom_write_r18>
+  f2:	1c ba       	out	0x1c, r1	; 28
+  f4:	8e bb       	out	0x1e, r24	; 30
+  f6:	2d bb       	out	0x1d, r18	; 29
+  f8:	0f b6       	in	r0, 0x3f	; 63
+  fa:	f8 94       	cli
+  fc:	e2 9a       	sbi	0x1c, 2	; 28
+  fe:	e1 9a       	sbi	0x1c, 1	; 28
+ 100:	0f be       	out	0x3f, r0	; 63
+ 102:	01 96       	adiw	r24, 0x01	; 1
+ 104:	08 95       	ret
+
+00000106 <_exit>:
+ 106:	f8 94       	cli
+
+00000108 <__stop_program>:
+ 108:	ff cf       	rjmp	.-2      	; 0x108 <__stop_program>
