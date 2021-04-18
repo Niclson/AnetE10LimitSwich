@@ -1,0 +1,14 @@
+Added Component: Designator=HL1(LED: 5mm (H:0mm)(blue))
+Add component (AddParameter): Name = "Calor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.vishay.com/docs/82437/vlmo1300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED: 5mm (H:0mm)(red))
+Add component (AddParameter): Name = "Calor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.vishay.com/docs/82437/vlmo1300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=HL1-1
+Added Pin To Net: NetName=-5 Pin=HL1-2
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=+5 Pin=HL2-2
+Added Member To Class: ClassName=Sheet1 Member=Component HL1
+Added Member To Class: ClassName=Sheet1 Member=Component HL2
