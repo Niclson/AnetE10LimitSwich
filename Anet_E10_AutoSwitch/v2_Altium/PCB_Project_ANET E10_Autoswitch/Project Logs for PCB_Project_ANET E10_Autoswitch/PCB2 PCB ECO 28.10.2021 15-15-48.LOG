@@ -1,0 +1,64 @@
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 4,7K, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=U?(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4µs/3µs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4µs/3µs, 5000Vrms, 35V, -40...+125°C, 4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: DG301-5.0-02P-12-00AH)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем от концевика""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D?-3
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=X?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-1
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Pin To Net: NetName=NetU?_2 Pin=X?-2
+Added Net: Name=NetU?_2
+Added Member To Class: ClassName=Схема приинципиальная Member=Component K? Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component K? Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component R? Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component R? Resistor film, 4,7K, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component U? IC optoisolator, 4µs/3µs, 5000Vrms, 35V, -40...+125°C, 4-SMD
+Added Member To Class: ClassName=Схема приинципиальная Member=Component X? Terminal connector, 2pin, 3.5mm, 300VAC, 10A

@@ -1,0 +1,57 @@
+Added Component: Designator=D?(MOD: HLK-PM01)
+Add component (AddParameter): Name = "ComponentType"; Value = "AC/DC converter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.aliexpress.com/item/32408565688.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InputVoltage"; Value = "100...240VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Mornsun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutputType"; Value = "isolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutputVoltage"; Value = "3V 900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "30x20x15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "HLK-PM03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "AC/DC converter, isolator, 3V 900mA, 100...240VAC, -40...+105°C, 30x20x15mm"; VariantName = "[No Variations]"
+Added Component: Designator=K?(REL: SRD-03VDC)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/Relays_SRD-03VDC-SL-C_C24585.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Songle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SRD-05VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeRelay"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageControlCoil"; Value = "3VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=K?(REL: SRD-03VDC)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/Relays_SRD-03VDC-SL-C_C24585.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Songle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SRD-03VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeRelay"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageControlCoil"; Value = "3VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: DG301-5.0-02P-12-00AH)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем сетевой""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=K?-2
+Added Net: Name=+5
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=K?-5
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=X?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=X?-1
+Added Net: Name=NetK?_3
+Added Class: Name=Схема приинципиальная
+Added Room: Name=Схема приинципиальная

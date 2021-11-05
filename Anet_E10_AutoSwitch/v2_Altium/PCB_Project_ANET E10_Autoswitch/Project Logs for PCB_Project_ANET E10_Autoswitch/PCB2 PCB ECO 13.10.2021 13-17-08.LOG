@@ -1,0 +1,32 @@
+Added Component: Designator=K?(REL: SRD-03VDC)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/Relays_SRD-03VDC-SL-C_C24585.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Songle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SRD-03VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeRelay"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageControlCoil"; Value = "3VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=K?(REL: SRD-03VDC)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/Relays_SRD-03VDC-SL-C_C24585.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Songle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SRD-03VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeRelay"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageControlCoil"; Value = "3VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=K?-2
+Added Net: Name=+5
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=K?-5
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=X?-1
+Added Net: Name=NetK?_3
+Added Member To Class: ClassName=Схема приинципиальная Member=Component K? Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component K? Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C

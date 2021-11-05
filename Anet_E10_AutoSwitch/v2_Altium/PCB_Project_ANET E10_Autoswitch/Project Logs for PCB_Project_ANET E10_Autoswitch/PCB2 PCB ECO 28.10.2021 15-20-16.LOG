@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5 Pin=D?-3
+Removed Pin From Net: NetName=GND Pin=D?-4
+Removed Pin From Net: NetName=NetD?_1 Pin=K?-5
+Removed Pin From Net: NetName=NetD?_2 Pin=X?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=+5 Pin=D?-4
+Added Pin To Net: NetName=NetD?_2 Pin=K?-5
+Added Pin To Net: NetName=NetD?_1 Pin=X?-2
+Added Member To Class: ClassName=Схема приинципиальная Member=Component K? Electromechanics relay, 3VDC, 250VAC, 10A, 1NO, -40...+85°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component R? Resistor film, 100R, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component X? Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Room: Name=Схема приинципиальная
