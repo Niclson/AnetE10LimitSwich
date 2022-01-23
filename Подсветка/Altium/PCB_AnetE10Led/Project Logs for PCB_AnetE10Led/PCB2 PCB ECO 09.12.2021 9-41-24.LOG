@@ -1,0 +1,260 @@
+Added Component: Designator=VD1(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD3(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD4(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD5(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD6(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD7(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD8(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD9(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD10(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD11(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD12(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD13(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD14(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD15(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD16(LED 5050)
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, , *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VD1-3
+Added Pin To Net: NetName=GND Pin=VD1-5
+Added Pin To Net: NetName=GND Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD2-3
+Added Pin To Net: NetName=GND Pin=VD2-5
+Added Pin To Net: NetName=GND Pin=VD3-1
+Added Pin To Net: NetName=GND Pin=VD3-3
+Added Pin To Net: NetName=GND Pin=VD3-5
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=GND Pin=VD4-3
+Added Pin To Net: NetName=GND Pin=VD4-5
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=GND Pin=VD5-3
+Added Pin To Net: NetName=GND Pin=VD5-5
+Added Pin To Net: NetName=GND Pin=VD6-1
+Added Pin To Net: NetName=GND Pin=VD6-3
+Added Pin To Net: NetName=GND Pin=VD6-5
+Added Pin To Net: NetName=GND Pin=VD7-1
+Added Pin To Net: NetName=GND Pin=VD7-3
+Added Pin To Net: NetName=GND Pin=VD7-5
+Added Pin To Net: NetName=GND Pin=VD8-1
+Added Pin To Net: NetName=GND Pin=VD8-3
+Added Pin To Net: NetName=GND Pin=VD8-5
+Added Pin To Net: NetName=GND Pin=VD9-1
+Added Pin To Net: NetName=GND Pin=VD9-3
+Added Pin To Net: NetName=GND Pin=VD9-5
+Added Pin To Net: NetName=GND Pin=VD10-1
+Added Pin To Net: NetName=GND Pin=VD10-3
+Added Pin To Net: NetName=GND Pin=VD10-5
+Added Pin To Net: NetName=GND Pin=VD11-1
+Added Pin To Net: NetName=GND Pin=VD11-3
+Added Pin To Net: NetName=GND Pin=VD11-5
+Added Pin To Net: NetName=GND Pin=VD12-1
+Added Pin To Net: NetName=GND Pin=VD12-3
+Added Pin To Net: NetName=GND Pin=VD12-5
+Added Pin To Net: NetName=GND Pin=VD13-1
+Added Pin To Net: NetName=GND Pin=VD13-3
+Added Pin To Net: NetName=GND Pin=VD13-5
+Added Pin To Net: NetName=GND Pin=VD14-1
+Added Pin To Net: NetName=GND Pin=VD14-3
+Added Pin To Net: NetName=GND Pin=VD14-5
+Added Pin To Net: NetName=GND Pin=VD15-1
+Added Pin To Net: NetName=GND Pin=VD15-3
+Added Pin To Net: NetName=GND Pin=VD15-5
+Added Pin To Net: NetName=GND Pin=VD16-1
+Added Pin To Net: NetName=GND Pin=VD16-3
+Added Pin To Net: NetName=GND Pin=VD16-5
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=VD1-2
+Added Pin To Net: NetName=VCC Pin=VD1-4
+Added Pin To Net: NetName=VCC Pin=VD1-6
+Added Pin To Net: NetName=VCC Pin=VD2-2
+Added Pin To Net: NetName=VCC Pin=VD2-4
+Added Pin To Net: NetName=VCC Pin=VD2-6
+Added Pin To Net: NetName=VCC Pin=VD3-2
+Added Pin To Net: NetName=VCC Pin=VD3-4
+Added Pin To Net: NetName=VCC Pin=VD3-6
+Added Pin To Net: NetName=VCC Pin=VD4-2
+Added Pin To Net: NetName=VCC Pin=VD4-4
+Added Pin To Net: NetName=VCC Pin=VD4-6
+Added Pin To Net: NetName=VCC Pin=VD5-2
+Added Pin To Net: NetName=VCC Pin=VD5-4
+Added Pin To Net: NetName=VCC Pin=VD5-6
+Added Pin To Net: NetName=VCC Pin=VD6-2
+Added Pin To Net: NetName=VCC Pin=VD6-4
+Added Pin To Net: NetName=VCC Pin=VD6-6
+Added Pin To Net: NetName=VCC Pin=VD7-2
+Added Pin To Net: NetName=VCC Pin=VD7-4
+Added Pin To Net: NetName=VCC Pin=VD7-6
+Added Pin To Net: NetName=VCC Pin=VD8-2
+Added Pin To Net: NetName=VCC Pin=VD8-4
+Added Pin To Net: NetName=VCC Pin=VD8-6
+Added Pin To Net: NetName=VCC Pin=VD9-2
+Added Pin To Net: NetName=VCC Pin=VD9-4
+Added Pin To Net: NetName=VCC Pin=VD9-6
+Added Pin To Net: NetName=VCC Pin=VD10-2
+Added Pin To Net: NetName=VCC Pin=VD10-4
+Added Pin To Net: NetName=VCC Pin=VD10-6
+Added Pin To Net: NetName=VCC Pin=VD11-2
+Added Pin To Net: NetName=VCC Pin=VD11-4
+Added Pin To Net: NetName=VCC Pin=VD11-6
+Added Pin To Net: NetName=VCC Pin=VD12-2
+Added Pin To Net: NetName=VCC Pin=VD12-4
+Added Pin To Net: NetName=VCC Pin=VD12-6
+Added Pin To Net: NetName=VCC Pin=VD13-2
+Added Pin To Net: NetName=VCC Pin=VD13-4
+Added Pin To Net: NetName=VCC Pin=VD13-6
+Added Pin To Net: NetName=VCC Pin=VD14-2
+Added Pin To Net: NetName=VCC Pin=VD14-4
+Added Pin To Net: NetName=VCC Pin=VD14-6
+Added Pin To Net: NetName=VCC Pin=VD15-2
+Added Pin To Net: NetName=VCC Pin=VD15-4
+Added Pin To Net: NetName=VCC Pin=VD15-6
+Added Pin To Net: NetName=VCC Pin=VD16-2
+Added Pin To Net: NetName=VCC Pin=VD16-4
+Added Pin To Net: NetName=VCC Pin=VD16-6
+Added Net: Name=VCC
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2
