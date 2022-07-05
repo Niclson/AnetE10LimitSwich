@@ -1,5 +1,5 @@
-//#include <ESP8266WiFi.h>
-#include <ESP32WiFi.h>
+#include <ESP8266WiFi.h>
+//#include <ESP32WiFi.h>
 #include <UniversalTelegramBot.h>
 
 #define WIFI_SSID "Red"

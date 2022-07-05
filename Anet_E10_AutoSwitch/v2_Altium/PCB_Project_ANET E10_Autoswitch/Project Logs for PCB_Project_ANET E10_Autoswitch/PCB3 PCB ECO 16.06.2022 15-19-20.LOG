@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR6_1 Pin=X5-1
+Removed Pin From Net: NetName=NetU1_2 Pin=X5-2
+Added Pin To Net: NetName=NetU1_2 Pin=X5-1
+Added Pin To Net: NetName=NetR6_1 Pin=X5-2
+Added Room: Name=—хема приинципиальна€

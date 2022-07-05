@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+LED Pin=X6-1
+Removed Pin From Net: NetName=NetVT1_2 Pin=X6-2
+Added Pin To Net: NetName=NetVT1_2 Pin=X6-1
+Added Pin To Net: NetName=+LED Pin=X6-2
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C24 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C

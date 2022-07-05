@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetK1_5 Pin=X2-1
+Removed Pin From Net: NetName=NetK1_3 Pin=X3-1
+Added Component: Designator=X2(CON: 6PCV-03-006)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=6PCV-03-006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "6PCV-03-006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 3pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X3(CON: DG950-9.5-02P)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем сетевого напряжения""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X12(CON: DG950-9.5-02P)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем питания принтера""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK1_5 Pin=X3-1
+Added Pin To Net: NetName=NetK1_3 Pin=X12-1
+Added Pin To Net: NetName=NetX3_2 Pin=X3-2
+Added Pin To Net: NetName=NetX3_2 Pin=X12-2
+Added Net: Name=NetX3_2
+Added Member To Class: ClassName=Схема приинципиальная Member=Component VT1 MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component X12 Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Room: Name=Схема приинципиальная

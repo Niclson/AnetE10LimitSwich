@@ -1,0 +1,204 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Added Component: Designator=C3(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP: D6.3C2.5H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+3.3 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=+3.3 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=+12 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=+12 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=+12 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+LED Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=+LED Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=+12 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=+12 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=+12 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C3 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C4 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C6 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C9 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C11 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C15 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C16 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C17 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C18 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C19 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C20 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C21 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C22 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C23 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C25 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C26 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Схема приинципиальная Member=Component C27 Aluminium capacitor, 100?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C

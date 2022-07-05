@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetR9_1 Pin=VT1-1
+Removed Pin From Net: NetName=GND Pin=VT1-2
+Added Component: Designator=VT1(DPAK)
+Add component (AddParameter): Name = "CurrentDS"; Value = "7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateCharge"; Value = "9.1nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/infineon-technologies/BSC340N08NS3GATMA1/BSC340N08NS3GATMA1TR-ND/2080655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InputCapacitor"; Value = "756pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "2.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-TDSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BSC340N08NS3GATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS"; Value = "34mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "MOSFET N-channel transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDS"; Value = "80V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR9_1 Pin=VT1-1
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Pin To Net: NetName=NetVT1_2 Pin=VT1-2
+Added Pin To Net: NetName=NetVT1_2 Pin=X6-2
+Added Net: Name=NetVT1_2
+Added Room: Name=Схема приинципиальная

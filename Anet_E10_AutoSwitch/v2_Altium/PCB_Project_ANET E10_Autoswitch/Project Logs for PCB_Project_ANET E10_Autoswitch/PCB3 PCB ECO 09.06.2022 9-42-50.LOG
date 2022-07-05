@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetK1_4 Pin=X3-1
+Removed Pin From Net: NetName=NetK1_3 Pin=X12-1
+Removed Member From Class: ClassName=Схема приинципиальная Member=X3
+Removed Member From Class: ClassName=Схема приинципиальная Member=X12
+Added Component: Designator=X?(CON: DG301-5.0-02P-12-00AH)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем сетевой""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: DG301-5.0-02P-12-00AH)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем сетевой на принтер""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK1_3 Pin=X?-1
+Added Pin To Net: NetName=NetK1_4 Pin=X?-1
+Added Pin To Net: NetName=NetX?_2 Pin=X?-2
+Added Pin To Net: NetName=NetX?_2 Pin=X?-2
+Added Net: Name=NetX?_2
+Added Member To Class: ClassName=Схема приинципиальная Member=Component X? Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Схема приинципиальная Member=Component X? Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Room: Name=Схема приинципиальная
